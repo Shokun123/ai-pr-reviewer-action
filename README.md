@@ -3,7 +3,7 @@
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-AI--PR--Reviewer-blue?style=flat-square&logo=github)](https://github.com/marketplace)
 [![CI & Self-Test](https://github.com/Shokun123/ai-pr-reviewer-action/actions/workflows/ci.yml/badge.svg)](https://github.com/Shokun123/ai-pr-reviewer-action/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Node: 20](https://img.shields.io/badge/Node-20.x-green.svg?style=flat-square&logo=node.js)](#)
+[![Node: 24](https://img.shields.io/badge/Node-24.x-green.svg?style=flat-square&logo=node.js)](#)
 [![Binance Pay](https://img.shields.io/badge/Sponsor%20via-Binance%20Pay-F0B90B.svg?style=flat-square&logo=binance&logoColor=white)](#-pro-tier--binance-pay-licensing)
 
 > **Automated AI code review, secret leak prevention, and vulnerability audit for every Pull Request.**  

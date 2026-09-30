@@ -30,5 +30,6 @@ outputs:
     description: 'Total number of critical vulnerabilities discovered.'
 
 runs:
-  using: 'node20'
+  using: 'node24'
   main: 'src/index.js'
+
