@@ -1,0 +1,21 @@
+{
+  "name": "ai-pr-reviewer-action",
+  "version": "1.0.0",
+  "description": "Automated AI Pull Request Code Reviewer & Security Vulnerability Linter for GitHub Actions",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/test_reviewer.js"
+  },
+  "keywords": [
+    "actions",
+    "github-action",
+    "ai-code-review",
+    "security-scanner",
+    "pr-reviewer",
+    "pull-request",
+    "linter"
+  ],
+  "author": "Shokun123",
+  "license": "MIT"
+}
