@@ -109,6 +109,16 @@ The open-source version provides automated static security heuristics for every 
 
 ---
 
+## 🌐 Complete $0-Overhead Developer Suite
+
+Explore our other open-source production tools:
+* 🗺️ **[Google Maps B2B Lead Extractor](https://github.com/Shokun123/google-maps-b2b-lead-scraper)** — High-performance Apify Actor for automated B2B lead generation with free sample datasets.
+* 🛡️ **[LeadRescue AI](https://shokun123.github.io/leadrescue-ai/)** — Interactive Speed-to-Lead conversion audit & zero-latency lead routing engine.
+* 💳 **Web3 Support:** Binance Pay UID: `1049392123` (`User-79a91`).
+
+---
+
 ## 📄 License
 
 Distributed under the **MIT License**. Free for open-source and individual developers.
+
